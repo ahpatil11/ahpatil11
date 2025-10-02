@@ -43,6 +43,18 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>🌍 Diversity Prediction Challenge</h3>
+      <p>🏆 Winner @ MachineHack Hackathon — developed a robust classification model for diversity prediction using advanced feature engineering and ML pipelines.</p>
+      <a href="https://github.com/ahpatil11/Machine-Hack-Competition/tree/master/Diversity%20Prediction%20Challenge"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Trust Level Prediction</h3>
+      <p>🥈 2nd Place @ MachineHack Hackathon — built ML models to predict trust levels in AI systems, focusing on fairness, transparency, and interpretability.</p>
+      <a href="https://github.com/ahpatil11/Machine-Hack-Competition/tree/master/AI%20Trust%20Level%20Prediction%20Challenge"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🍽️ Food Order Forecasting</h3>
       <p>🏆 2nd Runner-Up @ MachineHack Hackathon — time series forecasting pipeline for predicting food orders to optimize supply and delivery.</p>
       <a href="https://github.com/ahpatil11/Machine-Hack-Competition/tree/master/Food%20Order%20Forecasting"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white" /></a>
